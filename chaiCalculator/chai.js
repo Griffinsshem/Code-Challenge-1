@@ -21,5 +21,5 @@ function calculateChaiIngredients(numberOfCups) {
 }
 
 // Prompt user for input
-const userPromptChai = prompt("Karibu! How many cups of Chai Bora would you like to make?:");
+const userPrompt = prompt("Karibu! How many cups of Chai Bora would you like to make?:");
 const numberOfCups = parseInt(userPrompt, 10);

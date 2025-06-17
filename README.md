@@ -1,6 +1,19 @@
 # Code-Challenge-1
 
-This repository contains JavaScript solutions for three coding challenges:
+## Project Structure
+
+```
+event-guest-list/
+│
+├── bodaFareCalculator/
+    └── fare.js          
+├── chaiCalculator/
+│   └── chai.js      
+└── mobileMoneyEstimator/
+    └── fee.js        
+```
+
+- This repository contains JavaScript solutions for three coding challenges:
 
 ##  Chai Bora Ingredient Calculator
 Calculates the ingredients required to make a given number of cups of Kenyan Chai.

@@ -15,5 +15,5 @@ function calculateBodaFare(distanceInKm) {
 }
 
 // Prompt user for input
-const userPromptFare = prompt("Unafika wapi Mkubwa? Kilometer ngapi?");
+const userPrompt = prompt("Unafika wapi Mkubwa? Kilometer ngapi?");
 const distanceInKm = parseInt(userPrompt, 10);
