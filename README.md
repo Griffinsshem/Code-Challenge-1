@@ -38,6 +38,7 @@ Estimates mobile money transaction fees using a capped 1.5% rate.
 ##  Author
 
 **Name:** Griffins Ondeyo 
+
 **GitHub:** [@Griffinsshem](https://github.com/Griffinsshem)
 
 
